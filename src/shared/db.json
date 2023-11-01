@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "username": "",
+      "password": "",
+      "firstname": "",
+      "lastname": "",
+      "role": ""
+    }
+  ],
+  "components": [
+    {
+      "name": "",
+      "price": "",
+      "category": {
+        "name": "",
+        "description": ""
+      },
+      "quantity": "",
+      "description": {
+        "manufacturer": "",
+        "socket": "",
+        "cores": "",
+        "clockSpeed": "",
+        "powerUsage": "",
+        "guarantee": "",
+        "graphics": "",
+        "memoryInterface": "",
+        "memoryType": "",
+        "memorySize": "",
+        "coreSpeed": "",
+        "memorySpeed": "",
+        "cudaCore": "",
+        "hdmiPorts": "",
+        "displayPorts": "",
+        "slots": "",
+        "fans": ""
+      }
+    }
+  ],
+  "configurations": [
+    {
+      "name": "",
+      "components": {
+        "casing": "",
+        "motherboard": "",
+        "cpu": "",
+        "gpu": "",
+        "ram": "",
+        "storage": "",
+        "opticalDrives": "",
+        "cooling": "",
+        "powerSupply": ""
+      },
+      "description": ""
+    }
+  ]
+}
